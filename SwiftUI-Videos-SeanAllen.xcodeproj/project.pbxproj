@@ -11,6 +11,7 @@
 		CE14C6EB25DBF8BC00924365 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE14C6EA25DBF8BC00924365 /* ContentView.swift */; };
 		CE14C6ED25DBF8BC00924365 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CE14C6EC25DBF8BC00924365 /* Assets.xcassets */; };
 		CE14C6F025DBF8BC00924365 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CE14C6EF25DBF8BC00924365 /* Preview Assets.xcassets */; };
+		CE14C6F925DC12AD00924365 /* Video.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE14C6F825DC12AD00924365 /* Video.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		CE14C6EC25DBF8BC00924365 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CE14C6EF25DBF8BC00924365 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		CE14C6F125DBF8BC00924365 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CE14C6F825DC12AD00924365 /* Video.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Video.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				CE14C6E825DBF8BC00924365 /* SwiftUI_Videos_SeanAllenApp.swift */,
 				CE14C6EA25DBF8BC00924365 /* ContentView.swift */,
+				CE14C6F825DC12AD00924365 /* Video.swift */,
 				CE14C6EC25DBF8BC00924365 /* Assets.xcassets */,
 				CE14C6F125DBF8BC00924365 /* Info.plist */,
 				CE14C6EE25DBF8BC00924365 /* Preview Content */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CE14C6EB25DBF8BC00924365 /* ContentView.swift in Sources */,
+				CE14C6F925DC12AD00924365 /* Video.swift in Sources */,
 				CE14C6E925DBF8BC00924365 /* SwiftUI_Videos_SeanAllenApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
